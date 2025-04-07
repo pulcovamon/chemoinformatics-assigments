@@ -1,4 +1,5 @@
 .venv
-compounds.csv
+*.csv
 .ipynb_checkpoints
-dataset.csv
+*.txt
+*.pdf
