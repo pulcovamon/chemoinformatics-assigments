@@ -1,3 +1,4 @@
 .venv
 compounds.csv
 .ipynb_checkpoints
+dataset.csv
